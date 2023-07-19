@@ -1,0 +1,196 @@
+.Blog{
+    background-color: aqua;
+    width: 650px;
+    height: 400px;
+    font-family: arial;
+    text-align:center;
+    font-size: 20px;
+    margin: 20px auto;
+    padding: 40px;
+    box-sizing: border-box;
+    }
+
+    a{
+        text-decoration: none;
+        font-family: arial;
+        color: black;
+        line-height: 50px;
+        text-align: center;
+        width: 150px;
+        height: 50px;
+        display: block;
+        border: 5px solid rgb(238, 231, 231);
+        border-radius:15px ;
+        transition: 500ms;
+    }
+
+    a:hover{
+        background-color: black;
+        color: white;
+    }
+
+    
+     
+
+
+
+    
+    
+   /* span start */
+    p1 span{
+        font-size: 50px;
+        color: white;
+    }
+    p2 span{
+        font-size: 50px;
+        color:white ;
+    }
+    p3 span{
+        font-size: 50px;
+        color: rgba(67, 61, 61, 0.639);
+    }
+    p4 span{
+        font-size: 50px;
+        color: rgba(220, 203, 14, 0.966);
+    }
+    p5 span{
+        font-size: 50px;
+        color: white;
+
+    }
+    p6 span{
+        font-size: 50px;
+        color:lightgreen ;
+
+    }
+    p7 span{
+        font-size: 50px;
+        color: rgb(72, 13, 209);
+    }
+    p8 span{
+        font-size: 50px;
+        color: white;
+    }
+    p9 span{
+        font-size: 50px;
+        color: white;
+    }
+    p10 span{
+        font-size: 50px;
+        color: rgb(79, 87, 82);
+    }
+    p11 span{
+        font-size: 50px;
+        color: black;
+    }
+    p12 span{
+        font-size: 50px;
+        color:rgb(45, 28, 44) ;
+
+    }
+    p13 span{
+        font-size: 50px;
+        color: white;
+    }
+    p14 span{
+        font-size: 50px;
+        color: white;
+    }
+    p15 span{
+        font-size: 50px;
+        color: white;
+    }
+    /* span fenished */
+
+        /* box start */
+    .box1{
+        background-image: url(../images/Bernard-Arnault.jpg);
+        background-size:750px;
+        color: white;
+    }
+
+    .box2{
+        background-image: url(../images/Elon\ Mask.jpg);
+        background-size: 750px;
+        color: white;
+    }
+
+    .box3{
+        background-image: url(../images/Jezz\ Bezos.jpg);
+        background-size: 650px;
+        color: rgba(67, 61, 61, 0.639);
+    }
+
+    .box4{
+        background-image: url(../images/-bill-gates-file-081822.jpg);
+        background-size: 650px;
+        color: rgba(220, 203, 14, 0.966);
+    }
+
+    .box5{
+        background-image: url(../images/Warren\ Buffett.jpg);
+        background-size: 650px;
+        color: white;
+    }
+
+    .box6{
+        background-image: url(../images/Larry-Ellison-.jpg);
+        background-size: 650px;
+        color:lightgreen ;
+    }
+
+    .box7{
+        background-image: url(../images/Steve\ Ballmer.jpg);
+        background-size: 650px;
+        color: rgb(72, 13, 209);
+    }
+
+    .box8{
+        background-image: url(../images/larry_page.jpg);
+        background-size: 650px;
+        color: white;
+    }
+
+    .box9{
+        background-image: url(../images/Francoise-Bettencourt-Meyers-.jpg);
+        background-size: 650px;
+        color: white;
+    }
+
+    .box10{
+        background-image: url(../images/Sergey-Brin.jpg);
+        background-size: 650px;
+        color: rgb(79, 87, 82);
+    }
+
+    .box11{
+        background-image: url(../images/Carlos\ slim.jpg);
+        background-size: 650px;
+        color: black;
+    }
+
+
+    .box12{
+        background-image: url(../images/mukesh-ambani.jpg);
+        background-size: 650px;
+        color:rgb(45, 28, 44) ;
+    }
+
+    .box13{
+        background-image: url(../images/Mark\ Zuckerberg.jpg);
+        background-size: 650px;
+        color: white;
+    }
+
+    .box14{
+        background-image: url(../images/Amancio-Ortega-Gaona.jpg);
+        background-size: 650px;
+        color:white ;
+    }
+
+    .box15{
+        background-image: url(../images/Jim-Walton-.jpg);
+        background-size: 680px;
+        color:white ;
+    }
+    /* box fenished */
